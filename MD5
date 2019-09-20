@@ -1,8 +1,8 @@
-50934ba1820c32ee372eb7a4317f5481 *DESCRIPTION
+b481c973a7086adcb59d454d4b8292df *DESCRIPTION
 1080cdff5f5a76f5584bd7ba218e7f98 *NAMESPACE
 70bdf1875dcfbc11005cdc523eb1586a *R/RcppExports.R
 2436bbc856094e93034cf71fa46f4c8a *R/changepoints.R
-d6687f1b7adfd5649f05a78c923a5121 *build/partial.rdb
+3524401db3e0236427dcaeb5166117ef *build/partial.rdb
 25d25bf791b9430c0975e73a78e72dfc *inst/extdata/mcp.txt
 b05e9be142aeb3552e58bac0329b3699 *inst/extdata/scp.txt
 b5790f08e0d5f87160b6947c9be03efb *man/bbmod_method.Rd
@@ -22,4 +22,4 @@ d8fa2738892b6be456e4e630a425409b *man/simulated_annealing.Rd
 6000186fecad3f3abf1a68fb3b3dca6d *src/prox_gradient_ggm.h
 4b9c4e302d26ea30f372bbaf0f9b90bd *src/rank_one_changepoints.cpp
 38075928f80dad6034ef0ad2278306f8 *tests/gen_data.py
-3f26ef7c3f499f3eebc87866226c771f *tests/test_changepoints.R
+631d3e3e6bd44d367cca164d40505eab *tests/test_changepoints.R
